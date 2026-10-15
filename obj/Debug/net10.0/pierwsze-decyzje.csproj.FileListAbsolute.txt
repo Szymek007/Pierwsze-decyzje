@@ -1,0 +1,15 @@
+C:\Users\s38122\pierwsze-decyzje\bin\Debug\net10.0\pierwsze-decyzje.exe
+C:\Users\s38122\pierwsze-decyzje\bin\Debug\net10.0\pierwsze-decyzje.deps.json
+C:\Users\s38122\pierwsze-decyzje\bin\Debug\net10.0\pierwsze-decyzje.runtimeconfig.json
+C:\Users\s38122\pierwsze-decyzje\bin\Debug\net10.0\pierwsze-decyzje.dll
+C:\Users\s38122\pierwsze-decyzje\bin\Debug\net10.0\pierwsze-decyzje.pdb
+C:\Users\s38122\pierwsze-decyzje\obj\Debug\net10.0\pierwsze-decyzje.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s38122\pierwsze-decyzje\obj\Debug\net10.0\pierwsze-decyzje.AssemblyInfoInputs.cache
+C:\Users\s38122\pierwsze-decyzje\obj\Debug\net10.0\pierwsze-decyzje.AssemblyInfo.cs
+C:\Users\s38122\pierwsze-decyzje\obj\Debug\net10.0\pierwsze-decyzje.csproj.CoreCompileInputs.cache
+C:\Users\s38122\pierwsze-decyzje\obj\Debug\net10.0\pierwsze-decyzje.sourcelink.json
+C:\Users\s38122\pierwsze-decyzje\obj\Debug\net10.0\pierwsze-decyzje.dll
+C:\Users\s38122\pierwsze-decyzje\obj\Debug\net10.0\refint\pierwsze-decyzje.dll
+C:\Users\s38122\pierwsze-decyzje\obj\Debug\net10.0\pierwsze-decyzje.pdb
+C:\Users\s38122\pierwsze-decyzje\obj\Debug\net10.0\pierwsze-decyzje.genruntimeconfig.cache
+C:\Users\s38122\pierwsze-decyzje\obj\Debug\net10.0\ref\pierwsze-decyzje.dll

@@ -1,0 +1,15 @@
+C:\Users\s38122\pierwsze-decyzje\Zadanie4\bin\Debug\net10.0\Zadanie4.exe
+C:\Users\s38122\pierwsze-decyzje\Zadanie4\bin\Debug\net10.0\Zadanie4.deps.json
+C:\Users\s38122\pierwsze-decyzje\Zadanie4\bin\Debug\net10.0\Zadanie4.runtimeconfig.json
+C:\Users\s38122\pierwsze-decyzje\Zadanie4\bin\Debug\net10.0\Zadanie4.dll
+C:\Users\s38122\pierwsze-decyzje\Zadanie4\bin\Debug\net10.0\Zadanie4.pdb
+C:\Users\s38122\pierwsze-decyzje\Zadanie4\obj\Debug\net10.0\Zadanie4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s38122\pierwsze-decyzje\Zadanie4\obj\Debug\net10.0\Zadanie4.AssemblyInfoInputs.cache
+C:\Users\s38122\pierwsze-decyzje\Zadanie4\obj\Debug\net10.0\Zadanie4.AssemblyInfo.cs
+C:\Users\s38122\pierwsze-decyzje\Zadanie4\obj\Debug\net10.0\Zadanie4.csproj.CoreCompileInputs.cache
+C:\Users\s38122\pierwsze-decyzje\Zadanie4\obj\Debug\net10.0\Zadanie4.sourcelink.json
+C:\Users\s38122\pierwsze-decyzje\Zadanie4\obj\Debug\net10.0\Zadanie4.dll
+C:\Users\s38122\pierwsze-decyzje\Zadanie4\obj\Debug\net10.0\refint\Zadanie4.dll
+C:\Users\s38122\pierwsze-decyzje\Zadanie4\obj\Debug\net10.0\Zadanie4.pdb
+C:\Users\s38122\pierwsze-decyzje\Zadanie4\obj\Debug\net10.0\Zadanie4.genruntimeconfig.cache
+C:\Users\s38122\pierwsze-decyzje\Zadanie4\obj\Debug\net10.0\ref\Zadanie4.dll
